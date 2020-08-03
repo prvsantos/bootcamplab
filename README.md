@@ -8,7 +8,7 @@ Repositório utilizado para criar pipeline automatizado (CI/CD)
 labbootcamp (EC2)
 
 # Instalação do Docker no servidor
- :fa-arrow-right: [Install Docker Engine on Ubuntu](https://docs.docker.com/engine/install/ubuntu/ "Install Docker Engine on Ubuntu") :fa-arrow-left:
+ :fa-arrow-right:[Install Docker Engine on Ubuntu](https://docs.docker.com/engine/install/ubuntu/ "Install Docker Engine on Ubuntu"):fa-arrow-left:
 
 # Instalação do JAVA no servidor
 Pendente

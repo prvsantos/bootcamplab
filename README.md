@@ -5,15 +5,13 @@ Instituto de Gestão e Tecnologia da Informação - IGTI
 Repositório utilizado para criar pipeline automatizado (CI/CD)
 
 # Servidor
-labbootcamp (EC2)
+labbootcamp (EC2) :tw-2705:
 
 # Instalação do Docker no servidor
- :fa-arrow-right:[Install Docker Engine on Ubuntu](https://docs.docker.com/engine/install/ubuntu/ "Install Docker Engine on Ubuntu"):fa-arrow-left:
+[Install Docker Engine on Ubuntu](https://docs.docker.com/engine/install/ubuntu/ "Install Docker Engine on Ubuntu") :tw-2705:
 
 # Instalação do JAVA no servidor
-Pendente
+:tw-2753:
 
 # Instalação do Jenkins no servidor
-Pendente
-
-
+:tw-2753:
